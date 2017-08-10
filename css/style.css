@@ -1,0 +1,117 @@
+.slidersize{
+	width: 100%;
+	/*height:550px;*/
+	margin-bottom: 20px;
+	}
+
+	.slidersize img{
+	width: 100%;
+	height:100%;
+	
+	}
+
+
+.row h1{
+	/*padding-left: 200px;*/
+	font-size: 25px;
+	margin: auto;
+
+
+}
+.follow{
+	color: white;
+}
+.custom{
+text-align: center;
+}
+.well{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	}
+
+
+
+
+
+.thumbnail img{
+	width:100%;
+	height: 240px;
+
+}
+
+/*#footer{
+    margin-top:20px;
+    height: 125px;
+
+
+}*/
+.footer1 h4{
+    margin -top:20px;
+    color:white;
+}
+.footer2 h4{
+    margin-bottom: -1px;
+    color:white;
+}
+.footer3 {
+    margin-top: 10px;
+    color:white
+}
+.footer3 a{
+    margin-left: 15px;
+    color:white;
+}
+.footer4{
+    margin-left: 10px;
+}
+.footer5 h4{
+    margin-top: 5px;
+    color:white;
+     margin-bottom: 0px;
+
+}
+.footer5 p{
+    margin-bottom: 0px;
+     color:white;
+}
+.para mark {
+color: black;
+font-size:15px;
+margin-left:85%;
+}
+
+
+
+.s1{
+	/*padding-left: 200px;*/
+	font-size: 25px;
+}
+
+
+.s3{
+	/*padding-left: 200px;*/
+	font-size: 25px;
+
+}
+
+.reviews img{
+	height: 40%;
+	width: 90%;
+}
+
+.reviews p{
+	font-size: 18px;
+}
+
+
+@media (min-width: 600px) {
+	p	{
+		font-size: 20px;
+	}
+}
+
+@media (min-width: 800px) {
+	p	{
+		font-size: 30px;
+	}
+}
